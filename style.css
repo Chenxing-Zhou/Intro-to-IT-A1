@@ -4,7 +4,7 @@ body {
     margin-left: 75px;
 }
 
-header {
+h1 {
     border-color: yellow;
     border-width: 3px;
     border-style: solid;
