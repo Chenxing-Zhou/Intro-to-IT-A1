@@ -1,6 +1,12 @@
 body {
     background-color: #cbc0ad;
     color: black;
+    margin-left: 75px;
+}
+
+h1 {
+    background-color: #e5be9e;
+    color: black;
 }
 
 
