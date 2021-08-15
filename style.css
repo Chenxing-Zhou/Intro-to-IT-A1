@@ -1,12 +1,13 @@
 body {
-    background-color: #cbc0ad;
-    color: black;
+    background-color: #333;
+    color: white;
     margin-left: 75px;
 }
 
-h1 {
-    background-color: #e5be9e;
-    color: black;
+header {
+    border-color: yellow;
+    border-width: 3px;
+    border-style: solid;
 }
 
 
